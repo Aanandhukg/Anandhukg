@@ -39,6 +39,6 @@
 ## 📊 GitHub Activity
 | ![Arita github stats](https://github-readme-stats.vercel.app/api?username=Anandhu-Krishnan-G&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anandhu-Krishnan-G&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhu-Krishnan-G&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=Anandhu-Krishnan-G&repo=Portfolio&cache_seconds=86400&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhu-Krishnan-G&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=Anandhu-Krishnan-G&repo=web-design&cache_seconds=86400&theme=radical) |
 
 <br>
