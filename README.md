@@ -2,7 +2,7 @@
 # Anandhu-Krishnan-G
 <h1 align="center">Hi 👋, I'm Anandhu krishnan G</h1>
 
-<h3 align="center">Depressed fellow into coding nothing else</h3>
+<h3 align="center">Enjoy every moment of life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anandhu-Krishnan-G&label=Profile%20views&color=0e75b6&style=flat" alt="Anandhu-Krishnan-G" /> </p>
 
